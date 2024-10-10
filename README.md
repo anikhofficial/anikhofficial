@@ -6,7 +6,7 @@
   </h1>
 </div>
 
-<h3 align="center">A passionate Java & Android & Flutter Developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">A passionate Java, Android & Flutter Developer from Bangladesh 🇧🇩</h3>
 
 <br/>
 
